@@ -7,6 +7,7 @@ Este repositório contém os *notebooks* e os dados utilizados nos meus projetos
 ## Projetos:
 
 * [Analisando os Dados do Airbnb - Sicília](https://github.com/franciscoost/Data-Science/blob/master/Analisando_os_Dados_do_Airbnb.ipynb)
+* [Analisando a Violência no Rio de Janeiro](https://github.com/franciscoost/Data-Science/blob/master/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
 
 ## Sobre mim:
 

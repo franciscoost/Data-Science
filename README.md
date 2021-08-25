@@ -11,5 +11,6 @@ Este repositório contém os *notebooks* e os dados utilizados nos meus projetos
 
 ## Sobre mim:
 
-* Acadêmico de Ciências Contábeis na Universidade do Extremo Sul Catarinense - UNESC
-* Analista de Inteligência de Mercado - Bistek Supermercados
+* Graduado em Ciências Contábeis pela Universidade do Extremo Sul Catarinense - UNESC
+* Pós-Graduando em Finanças Corporativas, M&A e Equity pela Pontifícia Universidade Católia do RS - PUCRS
+* Analista de Fusões e Aquisições - Zaxo M&A Partners

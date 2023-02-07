@@ -12,5 +12,5 @@ Este repositório contém os *notebooks* e os dados utilizados nos meus projetos
 ## Sobre mim:
 
 * Graduado em Ciências Contábeis pela Universidade do Extremo Sul Catarinense - UNESC
-* Pós-Graduando em Finanças Corporativas, M&A e Equity pela Pontifícia Universidade Católia do RS - PUCRS
-* Analista de Fusões e Aquisições - Zaxo M&A Partners
+* Pós-Graduado em Finanças Corporativas, M&A e Equity pela Pontifícia Universidade Católia do RS - PUCRS
+

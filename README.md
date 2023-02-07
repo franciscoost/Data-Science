@@ -12,5 +12,5 @@ Este repositório contém os *notebooks* e os dados utilizados nos meus projetos
 ## Sobre mim:
 
 * Graduado em Ciências Contábeis pela Universidade do Extremo Sul Catarinense - UNESC
-* Pós-Graduado em Finanças Corporativas, M&A e Equity pela Pontifícia Universidade Católia do RS - PUCRS
+* Pós-Graduado em Finanças Corporativas, M&A e Equity pela Pontifícia Universidade Católica do RS - PUCRS
 
